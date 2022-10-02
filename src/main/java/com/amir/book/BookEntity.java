@@ -2,7 +2,6 @@ package com.amir.book;
 
 import com.amir.user.UserEntity;
 import lombok.*;
-
 import javax.persistence.*;
 import java.util.Set;
 
@@ -13,7 +12,6 @@ import java.util.Set;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-
 public class BookEntity {
 
     private static final long serialVersionUID = 2L;

@@ -15,6 +15,8 @@
 <a href="/showMyLoginPage" >Login</a>
 <br/><br/>
 <a href="/register" >Register</a>
+<br/><br/>
+<a href="/book/getAddBookPage" >Add Book</a>
 
 </body>
 </html>
